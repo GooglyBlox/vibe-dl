@@ -1,0 +1,21 @@
+# Downloaded music
+downloads/
+*.m4a
+*.m3u8
+cover.jpg
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scratch
+__test*/
+*.tmp
